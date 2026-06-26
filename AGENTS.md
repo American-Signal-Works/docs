@@ -2,7 +2,7 @@
 
 ## About this project
 
-- This is the Mintlify documentation site for the Backdesk system.
+- This is the Mintlify documentation site for the current system.
 - Pages are MDX files with YAML frontmatter.
 - Configuration lives in `docs.json`.
 - Use the Mintlify MCP server, `https://mcp.mintlify.com`, when available.
@@ -10,7 +10,7 @@
 
 ## Terminology
 
-- Use "Backdesk" for the product.
+- The product name is not final. Use "the product" or "the system" until the name is finalized.
 - Use "workspace" for the user-facing product concept.
 - Use "page", "dashboard", "collection", "connection", and "system collection" consistently with the app.
 
@@ -25,7 +25,7 @@
 
 ## Content boundaries
 
-- Keep docs source-backed and current with the Backdesk repository.
+- Keep docs source-backed and current with the product repository.
 - Do not document roadmap items as shipped behavior.
 - Label caveats clearly when implementation differs from older product specs.
 

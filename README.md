@@ -1,6 +1,6 @@
-# Backdesk docs
+# Product docs
 
-This repository contains the Mintlify documentation site for the current Backdesk system.
+This repository contains the Mintlify documentation site for the current system.
 
 ## Development
 
